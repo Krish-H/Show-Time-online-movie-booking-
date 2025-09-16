@@ -171,8 +171,7 @@ const SeatLayout = () => {
       {/* Seat Layout */}
 
       <div className="relative flex flex-1 flex-col items-center max-md:mt-16">
-        <BlurCircle top="-100px" left="-100px" />
-        <BlurCircle bottom="0px" right="0px" />
+    
 
         <h1 className="text-2xl font-semibold mb-4">Select Your Seats</h1>
         <img src={assets.screenImage} alt="screen" />
