@@ -1,7 +1,6 @@
 
 # ShowTime 
 
-[![Deployment Status](https://vercel.com/button)](https://showtime-server-chi.vercel.app)
 
 ShowTime  is the Online Movie Booking platform. It provides RESTful APIs for movie listings, showtimes, bookings, user authentication, and management features. 
 
