@@ -9,7 +9,7 @@ const FeaturedSection = () => {
 
   const { shows } = useAppContext();
   return (
-    <div className="px-6 md:px-16 lg:px-24 xl:px-44 mt-[-50px] md:mt-0 overflow-hidden">
+    <div className="px-6 pt-10 md:px-16 lg:px-24 xl:px-44 overflow-hidden">
       <div className="relative flex items-center justify-between  pb-10">
      
         <p className="text-gray-300 font-medium text-lg">Now Showing</p>
