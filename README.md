@@ -1,9 +1,9 @@
 
-# ShowTime Server
+# ShowTime 
 
 [![Deployment Status](https://vercel.com/button)](https://showtime-server-chi.vercel.app)
 
-ShowTime Server is the backend powering the ShowTime Online Movie Booking platform. It provides RESTful APIs for movie listings, showtimes, bookings, user authentication, and management features. The server is deployed at [showtime-server-chi.vercel.app](https://showtime-server-chi.vercel.app).
+ShowTime  is the Online Movie Booking platform. It provides RESTful APIs for movie listings, showtimes, bookings, user authentication, and management features. 
 
 ---
 
@@ -57,14 +57,7 @@ ShowTime Server is the backend powering the ShowTime Online Movie Booking platfo
 - `POST /api/bookings` – Book tickets
 - `GET /api/bookings` – List user bookings
 
-### Users
 
-- `GET /api/users/profile` – Get user profile
-- `PUT /api/users/profile` – Update profile
-
-See full API documentation at [showtime-server-chi.vercel.app/api-docs](https://showtime-server-chi.vercel.app/api-docs) (if available).
-
----
 
 ## 💻 Getting Started (Local Development)
 
