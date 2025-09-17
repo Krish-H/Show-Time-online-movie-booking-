@@ -66,7 +66,7 @@ const MovieDetails = () => {
 
   return show ? (
     <div className="px-6 md:px-16 lg:px-40 ">
-      <div className="flex flex-col md:flex-row gap-8 max-w-6xl mx-auto">
+      <div className="flex flex-col md:flex-row gap-8 max-w-6xl pt-30 mx-auto">
         <img
           src={image_base_url + show.movie.poster_path}
           alt="Movie Poster"
